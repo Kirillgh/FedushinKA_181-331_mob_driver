@@ -1,0 +1,23 @@
+{
+    "records":
+    [
+        {
+            "img": "11111",
+            "url": "https://yandex.ru/",
+            "login": "ѕC¦ѓFРйУM^УГW[-",
+            "password": "oЮЮфџЇ|ПП( €Д—В"
+        },
+        {
+            "img": "22222",
+            "url": "https://mail.ru/",
+            "login": "m°ДкQ|ѕЕFШyXлjХ",
+            "password": "ёiXЗttЫj7C(•Z±в"
+        },
+        {
+            "img": "33333",
+            "url": "https://gitlab.com/",
+            "login": "ёjЙ6Б~DЃ©NFwЖ",
+            "password": "ёjЙ6Б~DЃ©NFwЖ"
+        }
+    ]
+}
